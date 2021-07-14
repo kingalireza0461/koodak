@@ -24,15 +24,9 @@
     "کودک": "https://s4.uupload.ir/files/17001ee1796e515195da834313c42c6a_nw9z.jpg"
   },
   {
-    "کودک": "https://s4.uupload.ir/files/17001ee1796e515195da834313c42c6a_nw9z.jpg"
-  },
-  {
     "کودک": "https://s4.uupload.ir/files/5dc65a7b4c62565816b87e972dd61856_x73e.jpg"
   },
   {
     "کودک": "https://s4.uupload.ir/files/a0fc395f8f580e3c1aa941cd4cb592b5_nay.jpg"
-  },
-  {
-    "کودک": "https://s4.uupload.ir/files/5dc65a7b4c62565816b87e972dd61856_x73e.jpg"
   }
 ]
